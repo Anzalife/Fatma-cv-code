@@ -1,0 +1,51 @@
+https://fonts.google.com/
+
+*{
+  border-radius: 5px;}
+header{
+  position: fixed;
+  height: 40px;
+  width: 90%;
+  line-height: 150% auto;
+  
+}
+
+header img{
+  width:200px;
+  height: 150px;
+  border-radius: 10%;
+  position:flex;
+  top: 0px;
+  margin-right: 60px;
+  align-items: right auto;
+
+  
+}
+header contact deatails{
+ position: fixed;
+  height: 40px;
+  width: 90%;
+  line-height: 150% auto; 
+}
+my-experience experience{
+  position: fixed;
+  height: 40px;
+  width: 90%;
+  line-height: 150% auto;
+}
+my-expe
+
+.more-info{
+  display:flex;
+}
+.image{
+  justify-content:center;
+  flex-direction: right;
+  width: 100px;
+  height: 100px;
+  display:;
+  margin-right: 20px;
+  
+}
+
+ 
